@@ -14,15 +14,20 @@ This project investigates the impact of emojis and sentiment-bearing words on fi
 
 **Authors:** Davide Raffaelli, Daniele Marazzina, Simone Formentin  
 **Title:** Impact of emoji and sentiment-bearing words on financial social-media sentiment classification  
-**Journal:**   
-**Link:**   
-**DOI:**   
+**Journal:** Finance Research Letters
+**Link:** https://www.sciencedirect.com/science/article/pii/S1544612326015837
+**DOI:** https://doi.org/10.1016/j.frl.2026.111057
 
 ### BibTeX
 ```bibtex
-@inproceedings{nome2026titolo,
-  title     = {Titolo del paper},
-  author    = {Nome1 and Nome2 and Nome3},
-  booktitle = {Nome Conferenza},
-  year      = {2026}
+@article{RAFFAELLI2026111057,
+title = {Impact of emoji and sentiment-bearing words on financial social-media sentiment classification},
+journal = {Finance Research Letters},
+volume = {114},
+pages = {111057},
+year = {2026},
+issn = {1544-6123},
+doi = {https://doi.org/10.1016/j.frl.2026.111057},
+url = {https://www.sciencedirect.com/science/article/pii/S1544612326015837},
+author = {Davide Raffaelli and Daniele Marazzina and Simone Formentin},
 }
